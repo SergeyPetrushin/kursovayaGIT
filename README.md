@@ -1,6 +1,6 @@
 СЕРГЕЙ ПЕТРУШИН
 
-![my foto)(https://github.com/SergeyPetrushin/kursovayaGIT/blob/main/img/Macaca.jpg)
+![my foto](https://github.com/SergeyPetrushin/kursovayaGIT/blob/main/img/Macaca.jpg)
 
 «Я ответственный, проактивный, стрессоустойчивый, коммуникабельный, честный. Мои сильные стороны — хорошие управленческие и лидерские навыки, клиентоориентированность, системное мышление, позитивный настрой. Не пью, не курю, есть права категории B»
 
